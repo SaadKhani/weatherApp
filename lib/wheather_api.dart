@@ -1,0 +1,1 @@
+const OPENWHEATHER_API='6aa8fee8268dbb2ce6d37c571e7330e6';
